@@ -1,1 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+This is new text I add before I will checkout a branch for this change
